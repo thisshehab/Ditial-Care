@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816831665202",
+    "firebase_url": "https://patient-observing1-default-rtdb.firebaseio.com",
+    "project_id": "patient-observing1",
+    "storage_bucket": "patient-observing1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816831665202:android:e6dce4c2cd5d3fb23c182b",
+        "android_client_info": {
+          "package_name": "com.example.patient_observing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816831665202-in3hfhj3is25lmdcp9u5908e4ggusfjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patient_observing",
+            "certificate_hash": "cd531a1795eeec8bc5ec7ac7ff559bfc5c73ebaf"
+          }
+        },
+        {
+          "client_id": "816831665202-bc1vfisjb7erh49pb2tdk098hjdhhgq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzO_rDj1dUSfQkunRKpU_fALSjsR7nTqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816831665202-bc1vfisjb7erh49pb2tdk098hjdhhgq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
