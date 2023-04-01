@@ -1,6 +1,7 @@
 # 2023 GDSC Solution Challenge
 
 ## Welcome to the Digital Care system repository!
+<a href="https://youtu.be/bBWRyaHUc8M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> Watch System Discription Vedio</a>
 
 The Digital Care system is a sophisticated architecture that consists of three interconnected components, including a dashboard, a vital signs measurement device, and an Android system. These components are connected to  firebase databases via Google Cloud and communicate with each other using IoT and firebase APIs. The system is built using various programming languages such as Dart for flutter framework and C language, and it utilizes various hardware components such as sensors, microcontrollers, LCD screens, and buttons.
 
@@ -8,7 +9,7 @@ In this repository, you will find all the necessary code, tools, and resources t
 
 Please refer to the documentation and instructions provided in this repository to learn more about the system and how to set it up. We hope this system will be useful for healthcare providers and contribute to improving patient care.
 
-<a href="https://youtu.be/bBWRyaHUc8M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> Watch System Discription Vedio</a>
+
 
 ![image](https://drive.google.com/uc?export=view&id=1corMaspN9rwv9NIv1DHPXu3Hzibzn2h2)
 
