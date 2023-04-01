@@ -3,8 +3,9 @@
 ## Welcome to the Digital Care system repository!
 <a href="https://youtu.be/bBWRyaHUc8M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> Watch System Discription Vedio</a>
 
+## Summry:
 The Digital Care system is a sophisticated architecture that consists of three interconnected components, including a dashboard, a vital signs measurement device, and an Android system. These components are connected to  firebase databases via Google Cloud and communicate with each other using IoT and firebase APIs. The system is built using various programming languages such as Dart for flutter framework and C language, and it utilizes various hardware components such as sensors, microcontrollers, LCD screens, and buttons.
-
+## softwares used :
 Digital Care, used in this code 3.3.1 version of flutter and MVVM architecture design pattern, with GETX for state management, it contains Signup screen, Login screen, Home screen, patients history list screen,patient list screen, for the backend used firebase real-time, firebase firestore this system for now will get only the Temperature, Heart Rate and SPO2 for the patient, it could be more in future like blood pressure, if these vital signs goes beyond the normal range it gives alarm with a notification that the alarm speaks of the room number and the bed number the same of the notification, when the notification is tapped it Navigate to the patient details page (in case that the nurse didn't tab the notification within 1 minute it will insert the patient Id to the dashboard node in firebase real-time database so it transfer to the dashboard to notify who is in charge to send another nurse, if the nurse tapped the notification it won't transfer it).
 and contains a property to call the nurse in case if the patient wants a hand, it will send a notification to the nurse with the name of the patient and the room number with the bed number, when the notification is tapped it navigate to the patient details page.
 
