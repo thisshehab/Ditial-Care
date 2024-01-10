@@ -1,6 +1,6 @@
 # 2023 GDSC Solution Challenge
 
-## Welcome to the Digital Care system repository!
+## Welcome to the Digital Care system
 <a href="https://youtu.be/bBWRyaHUc8M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /> Watch System Discription Vedio</a>
 
 ## Summry
