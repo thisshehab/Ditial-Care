@@ -12,7 +12,7 @@ and contains a property to call the nurse in case if the patient wants a hand, i
 ## installing, front-end
 First install flutter in your environment and also install the JDK, ensure that its installed successfully by running flutter doctor in cmd, create new project then replace the files of the project that I provided in Application repository, then go to the terminal of your Development environment and run the following command “flutter pub get” to install the packages to the project the packages are already in pubspec.yaml. 
 
-## installing, back-end: 
+## installing, back-end
 Create account in firebase, then go to console, from there create a project then create an android project, when you get the file named google-services replace it with the one in my android->src, you almost done, then in the main file make the initial route to the “/SignUp” so you create a user (doctor or nurse) close reinstall it with “/LogIn” screen so U login to the project with the user name and the email you have submitted.
 
 
