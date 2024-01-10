@@ -34,7 +34,7 @@ this screen contains their information, and genrateing report that is contains t
 
 * the vital signs of the normal range of each age is beside the main file so if there is any changes to vital signs you can go ahead and change them *
 
-## the third party packages used in this programm:
+## the third party packages used in this programm
 
   get: ^4.6.5 : used as state management
   
