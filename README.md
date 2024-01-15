@@ -17,7 +17,7 @@ Create account in firebase, then go to console, from there create a project then
 
 
 ## SignUp screen:
-this screen use to create account for the users doctors or nurses by the admin.
+this screen use to create account for the users doctors or nurses by the admin
 
 ## Login screen:
 screen that the user (nurse or doctor) will insert his information (that was created by the admin) to log in into the Homepage. 
